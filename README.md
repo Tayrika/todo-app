@@ -12,4 +12,4 @@ This is a straightforward Todo application built using React. It allows users to
 
 - **Complete Todo**: Tasks can be marked as complete by clicking on a checkbox or a button associated with each task.
 
-<img width="472" alt="image" src="https://github.com/Tayrika/todo-app/assets/98199612/e3040a86-f38b-4bc4-b24a-5f9a2825c8ab">
+<img width="472" alt="image" src="https://github.com/Tayrika/todo-app/assets/98199612/20e45193-6977-41c7-a6cf-595371741685">
